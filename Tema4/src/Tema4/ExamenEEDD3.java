@@ -1,0 +1,11 @@
+package Tema4;
+
+public class ExamenEEDD3 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		System.out.println("ejemplo3");
+	}
+
+}

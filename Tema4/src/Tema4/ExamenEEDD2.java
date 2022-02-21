@@ -6,6 +6,8 @@ public class ExamenEEDD2 {
 		// TODO Auto-generated method stub
 
 		System.out.println("Ejemplo 2 ");
+		
+		System.out.println("CAmbio en clase 2 ");
 	}
 
 }
